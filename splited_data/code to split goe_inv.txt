@@ -1,0 +1,5 @@
+(1) download the file 'goec inv.txt' file available form in the Harvard Dataverse repository: https://doi.org/10.7910/DVN/OTTBDX
+
+(2) run the code to split the data 
+$ split geoc_inv.txt data_ -l 750000 -a 2 -d --additional-suffix=.txt
+

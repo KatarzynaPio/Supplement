@@ -1,0 +1,49 @@
+name,2code,3code,IfEurope
+China,CN,CHN,0
+Japan,JP,JPN,0
+United States,US,USA,0
+South Korea,KR,KOR,0
+Germany,DE,DEU,1
+France,FR,FRA,1
+United Kingdom,GB,GBR,1
+Canada,CA,CAN,0
+Italy,IT,ITA,1
+Switzerland,CH,CHE,1
+India,IN,IND,0
+Sweden,SE,SWE,1
+Finland,FI,FIN,1
+Netherlands,NL,NLD,1
+Israel,IL,ISR,0
+Spain,ES,ESP,1
+Austria,AT,AUT,1
+Belgium,BE,BEL,1
+Russia,RU,RUS,0
+Brazil,BR,BRA,0
+Australia,AU,AUS,0
+Denmark,DK,DNK,1
+Poland,PL,POL,1
+Norway,NO,NOR,1
+South Africa,ZA,ZAF,0
+Ireland,IE,IRL,1
+Turkey,TR,TUR,0
+Czech Republic,CZ,CZE,1
+Mexico,MX,MEX,0
+Hungary,HU,HUN,1
+New Zealand,NZ,NZL,0
+Romania,RO,ROU,1
+Portugal,PT,PRT,1
+Slovenia,SI,SVN,1
+Greece,GR,GRC,1
+Luxembourg,LU,LUX,1
+Estonia,EE,EST,1
+Chile,CL,CHL,0
+Slovakia,SK,SVK,1
+Croatia,HR,HRV,1
+Bulgaria,BG,BGR,1
+Liechtenstein,LI,LIE,1
+Latvia,LV,LVA,1
+Iceland,IS,ISL,1
+Lithuania,LT,LTU,1
+Malta,MT,MLT,1
+Monaco,MC,MCO,1
+San Marino,SM,SMR,1
